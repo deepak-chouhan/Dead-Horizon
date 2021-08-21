@@ -1,7 +1,9 @@
-# Dead-Horizon
+# Dead-Horizon 3D
 New game from 2DEV studios
 
 ## Game can be downloaded from [2DEV studios](https://dev2studios.herokuapp.com/)
+
+Game preview
 
 ![1](https://drive.google.com/uc?id=1hmbeLZ6hlS09lzuWkwHXFbjJDvy5xmb8)
 ![2](https://drive.google.com/uc?id=1Lg4kn3KAaE182_VnytTAbJn1wmYCMLey)
